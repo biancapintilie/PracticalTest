@@ -12,7 +12,7 @@
         android:enabled="false"
         android:inputType="text"
         android:saveEnabled="false"
-        android:text="2"
+        android:text="gain"
         tools:layout_editor_absoluteX="119dp"
         tools:layout_editor_absoluteY="16dp" />
 
